@@ -104,11 +104,10 @@
     margin-left: 0px;
 }
 #border{
-    width:50em;
     margin-left:10em;
     border: 1px solid darkgray;
     display:flex;
     flex-direction: row;
-    align-self: center;
-    width:70em;
+    justify-content: center;
+    width:90em;
 }

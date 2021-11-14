@@ -53,6 +53,7 @@ a.top_link:active{
 }
 
 .top_nav,.img{
+    padding-left: 15em;
     padding-top:20px !important;
     display:flex;
     flex-direction:row;
@@ -88,12 +89,4 @@ a.top_link:active{
     color:rgb(40, 82, 239) !important;
     border: 1px solid rgb(40, 82, 239);
     border-radius:6px;
-}
-.sticky{ 
-    position: fixed;
-    top: 0;
-    width:100%;
-}
-.sticky + .content{ 
-    padding-top: 60px;
 }
