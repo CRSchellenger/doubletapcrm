@@ -48,19 +48,16 @@
     font-size: 20px;
     border:2px solid white;
     border-radius:5px;
-    
+    margin-top:24px;
 }
 .learn_more:hover{
-    margin-left: 1em;
+    margin-left: 1.2em;
     height:52px;
     width:200px;
-    background-color:rgb(40, 82, 239);
-    color:white;
+    background-color:white;
+    color:rgb(40, 82, 239);
     font-size: 20px;
-    border-top:2px solid white;
-    border-left:2px solid white;
-    border-right:2px solid white;
-    border-bottom:2px solid rgb(40, 82, 239);
+    border:2px solid rgb(40, 82, 239);
     border-radius:5px;
 }
 
