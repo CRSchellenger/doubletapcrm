@@ -10,7 +10,34 @@ a.top_link{
     text-decoration:none;
     letter-spacing:2px;
     font-weight:reg !important;
-    
+}
+a.top_link:hover{
+    margin-top:20px;
+    margin-right:60px;
+    display: inline;
+    padding:10px;
+    font-size:medium;
+    letter-spacing:2px;
+    background-color:rgb(40, 82, 239) !important;
+    color:white !important;
+    border-radius: 10px;
+    text-decoration:none;
+    letter-spacing:2px;
+    font-weight:reg !important;
+}
+a.top_link:active{
+    margin-top:20px;
+    margin-right:60px;
+    display: inline;
+    padding:10px;
+    font-size:medium;
+    letter-spacing:2px;
+    background-color:rgb(40, 82, 239) !important;
+    color:white !important;
+    border-radius: 10px;
+    text-decoration:none;
+    letter-spacing:2px;
+    font-weight:reg !important;
 }
 #home{
     margin-left: 40px;
@@ -51,7 +78,7 @@ a.top_link{
     text-decoration:none;
 }
 #tryitfree{ 
-    background-color:blue !important;
+    background-color:rgb(40, 82, 239) !important;
     color:white !important;
     border: 1px solid rgb(40, 82, 239);
     border-radius:6px;
