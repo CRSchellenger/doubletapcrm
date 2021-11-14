@@ -1,0 +1,14 @@
+a.top_link{
+    font-size:large;
+    letter-spacing:2px;
+    background-color:white !important;
+    color:black !important;
+    text-decoration:none;
+}
+.top_nav:hover{ 
+    background-color:blue !important;
+    color:white !important;
+    display:flex;
+    flex-direction:row;
+
+}
