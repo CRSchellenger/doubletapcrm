@@ -206,6 +206,7 @@
     margin-left:0.5em;
     width:20em;
     margin-top:2px;
+    align-self: center;
 }
 .ana_p2{
     display: flex;

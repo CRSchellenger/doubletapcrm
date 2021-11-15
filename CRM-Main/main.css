@@ -5,10 +5,5 @@ a.top_link{
     color:black !important;
     text-decoration:none;
 }
-.top_nav:hover{ 
-    background-color:blue !important;
-    color:white !important;
-    display:flex;
-    flex-direction:row;
 
-}
+
