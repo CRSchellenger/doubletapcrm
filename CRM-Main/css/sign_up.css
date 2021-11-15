@@ -1,5 +1,5 @@
 #inputusername {
-   background-image: url(images/username.jpg);
+   background-image: url(../CRM-AssetFiles/username.jpg);
    background-repeat: no-repeat;
    background-size: 15px;
    background-position-x: 20px;
@@ -8,7 +8,7 @@
 }
 
 #inputEmail {
-   background-image: url(images/email.jpg);
+   background-image: url(../CRM-AssetFiles/email.jpg);
    background-repeat: no-repeat;
    background-size: 15px;
    background-position-x: 20px;
@@ -17,7 +17,7 @@
 }
 
 #inputPassword {
-   background-image: url(images/password.jpg);
+   background-image: url(../CRM-AssetFiles/password.jpg);
    background-repeat: no-repeat;
    background-size: 15px;
    background-position-x: 20px;
