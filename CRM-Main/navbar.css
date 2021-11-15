@@ -1,0 +1,92 @@
+a.top_link{
+    margin-top:20px;
+    margin-right:60px;
+    display: inline;
+    padding:10px;
+    font-size:medium;
+    letter-spacing:2px;
+    background-color:white !important;
+    color:black !important;
+    text-decoration:none;
+    letter-spacing:2px;
+    font-weight:reg !important;
+}
+a.top_link:hover{
+    margin-top:20px;
+    margin-right:60px;
+    display: inline;
+    padding:10px;
+    font-size:medium;
+    letter-spacing:2px;
+    background-color:rgb(40, 82, 239) !important;
+    color:white !important;
+    border-radius: 10px;
+    text-decoration:none;
+    letter-spacing:2px;
+    font-weight:reg !important;
+}
+a.top_link:active{
+    margin-top:20px;
+    margin-right:60px;
+    display: inline;
+    padding:10px;
+    font-size:medium;
+    letter-spacing:2px;
+    background-color:rgb(40, 82, 239) !important;
+    color:white !important;
+    border-radius: 10px;
+    text-decoration:none;
+    letter-spacing:2px;
+    font-weight:reg !important;
+}
+#home{
+    margin-left: 40px;
+}
+.top_nav{ 
+    background-color:white !important;
+    color:black !important;
+}
+.top_nav,p{
+    display:flex;
+    flex-direction:row;
+    margin-left:60px;
+}
+
+.top_nav,.img{
+    padding-left: 15em;
+    padding-top:20px !important;
+    display:flex;
+    flex-direction:row;
+
+}
+.top_btn{ 
+    margin:10px;
+    text-decoration: none;
+    padding:9px;
+}
+#signin:hover{ 
+    background-color:rgb(40, 82, 239) !important;
+    color:white;
+    border: 1px solid rgb(40, 82, 239);
+    border-radius:6px;
+    text-decoration:none;
+}
+#signin{ 
+    background-color:white !important;
+    color:rgb(40, 82, 239);
+    border: 1px solid rgb(40, 82, 239);
+    border-radius:6px;
+    text-decoration:none;
+}
+#tryitfree{ 
+    background-color:rgb(40, 82, 239) !important;
+    color:white !important;
+    border: 1px solid rgb(40, 82, 239);
+    border-radius:6px;
+}
+#tryitfree:hover{ 
+    background-color:white !important;
+    color:rgb(40, 82, 239) !important;
+    border: 1px solid rgb(40, 82, 239);
+    border-radius:6px;
+}
