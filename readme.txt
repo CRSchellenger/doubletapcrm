@@ -1,6 +1,6 @@
-Double Tap CRM Weekend Project
+Double Tap CRM Weekend Project 11/15/21
 
-Weekend project by Shouwang, Christopher and Alex
+Weekend project by Shouwang, Christopher and Alex showcasing responsive design with html/css
 
 Contributions:
   Christopher: Landing and project lead
