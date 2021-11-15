@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../How-it-works-AssetFiles"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "weekendproject"
+	}
+}
